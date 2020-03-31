@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="13cm" height="4cm" viewBox="200 112 247 79" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="248" y="133" width="145" height="41"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #000000" x="248" y="133" width="145" height="41"/>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #000000" x1="203" y1="155" x2="248" y2="153.5"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #000000" x1="393" y1="153.5" x2="445" y2="155"/>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #000000" x1="277" y1="188" x2="357.148" y2="120.749"/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #000000" points="356.127,128.133 360.574,117.875 349.7,120.472 "/>
+  </g>
+</svg>

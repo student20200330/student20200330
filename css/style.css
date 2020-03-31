@@ -1,0 +1,76 @@
+#wrapper{
+	width:1000px;
+	outline: 1px solid #cccccc;
+	padding:10px;
+	margin:0 auto;
+}
+#header {
+	height: 400px; margin-bottom: 
+	10px;
+	background-image: url("../сердечко.gif");
+}
+#menu {
+
+	height: 30px; margin-bottom: 15px; background-color:pink;
+
+}
+#navigation_bar { 
+	width:200px; position: 
+	relative; float:left; 
+	left: 800px;
+}
+#content {
+	width: 780px; margin-left: 220px;
+	padding-left:10px; position: relative; 
+	left: 0px; text-align: justify; 
+	letter-spacing: normal; line-height: 10 mm 
+}
+
+.clear { clear: left;
+	margin-bottom: 15px;  
+
+}
+
+.epigraph {
+	text-align: right;
+}
+
+
+#footer {
+
+	справа
+	clear:left; margin-top: 15px; background-color:blue;
+}
+
+#menu table {
+	height:100%;
+}
+#menu td {
+	vertical-align: middle; padding: 0 10px;
+}
+
+#central_external_wrapper { 
+	width: 100%; float:left;
+	background-color: red;
+	overflow:hidden;
+	position:relative;
+}
+
+#central_internal_wrapper { 
+	width: 100%; float:left;
+	background-color: green; position:relative; right: 800px;
+}
+
+
+
+#ris img {
+	width:200px;
+	height:150px;
+	float:left;
+	margin: 3px;
+}
+
+#ris img:first-child {
+	width:612px;
+	height: 462px;
+}

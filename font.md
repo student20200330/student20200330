@@ -1,7 +1,6 @@
 <Html>
 <Head>
 <title>Буквы </title>
-<Meta http-equiv="Content-Type" content="text/html; ñharset=windows-1251">
 <Style type="text/css">
 OL.c01 {list-style-type: square}
 </style>
@@ -9,16 +8,14 @@ OL.c01 {list-style-type: square}
 
 <Body bgcolor=lime>
 
-
-
-Абзац <br>
+Абзац <br/>
 <p> <span style="font-size:22pt; font-weight:bold; color:blue">
 Пример как из букв можно сделать рисунок<br/>
 (Шрифт размером 22 pt голубой цвет, полужирный) </span> </p> <br/>
-</br></br>
+<br/><br/>
 
 <Hr align-center size=6 color=orange>
-</br></br>
+<br/><br/>
 
 <Center>
 <Font size=7 colors "purple ">Р</font> 
@@ -33,8 +30,8 @@ OL.c01 {list-style-type: square}
 
 
 <Hr align-center size=6 color=orange>
-</br></br>
-</br></br>
+<br/><br/>
+<br/><br/>
 <IMG SRC="font.png" ALT="code" ALIGN="left">
 
 </Body>

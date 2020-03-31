@@ -16,7 +16,13 @@ background-position: right bottom /* Ïîëîæåíèå ôîíà */
 
 <body>
 <h1>HTML: За пределами курса </h1>
-  
+
+<TABLE BORDER=1 WIDTH="100%" HEIGHT=100>
+  <TR>
+  <TD> Некоторые возможности HTML</TD>
+  </TR>
+  </TABLE>
+    
 <TABLE BORDER=1 WIDTH="100%" HEIGHT=100> 
 <TR>  
 <TD>Некоторые возможности HTML</TD>
@@ -24,7 +30,7 @@ background-position: right bottom /* Ïîëîæåíèå ôîíà */
 </TABLE>
 
 
-<TABLE BORDER=1 WIDTH="100%"> íà÷àëî òàáëèöû 
+<TABLE BORDER=1 WIDTH="100%"> Таблица меню 
 <TR> 
 <TD WIDTH="30%" HEIGHT=40 ><A HREF="font.html"> Рисунок из букв </A>
 </TD>

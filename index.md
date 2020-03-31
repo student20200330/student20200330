@@ -1,6 +1,5 @@
 <html>
 <head>
-
 <title> Мой сайт   </title>
 <style type="text/css">
 BODY {
@@ -14,11 +13,12 @@ background-position: right bottom /* Ïîëîæåíèå ôîíà */
 </head>
 <body>
 <h1>HTML: За пределами курса </h1>
-<TABLE BORDER=1 WIDTH="100%" HEIGHT=100>
+  <TABLE BORDER=1 WIDTH="100%" HEIGHT=100>
   <TR>
   <TD> Некоторые возможности HTML</TD>
   </TR>
   </TABLE>
+  
 TABLE BORDER=1 WIDTH="100%" HEIGHT=100> 
 <TR>  
 <TD>Некоторые возможности HTML</TD>

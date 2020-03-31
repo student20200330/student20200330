@@ -14,15 +14,16 @@ background-position: right bottom /* Ïîëîæåíèå ôîíà */
 <body>
 <h1>HTML: За пределами курса </h1>
 
-Существуют некоторые полезные возможности HTML,</br>
-которыми редко пользуются</br>
+Существуют некоторые полезные возможности HTML,<br/>
+которыми редко пользуются<br/>
 но о них стоит знать:
-
-- <A HREF="svg_.html">Рисунок из букв</A> 
-- <A HREF="svg_.html"> Формат SVG</A>
-- <A HREF="formula.html"> Формулы </A>
-- <A HREF="other.html">  И прочее...</A>
-
+<ul>
+<li><A HREF="svg_.html">Рисунок из букв</A> </li>
+<li><A HREF="svg_.html"> Формат SVG</A></li>
+<li><A HREF="formula.html"> Формулы </A></li>
+<li><A HREF="other.html">  И прочее...</A></li>
+</ul>
+<br/>
 <A HREF="Mailto: name@domain.ru"> Написать письмо</A>
 
 

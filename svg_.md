@@ -1,15 +1,15 @@
 <html>
 <head>
 
-<title> Îáùèé âèä äîêóìåíòà html  </title>
+<title> Графика  </title>
 
 
 </head>
 
 <body>
-<h1>Ôîðìàò SVG</h1>
+<h1>Формат SVG</h1>
 
-<SPAN STYLE="color: navy">Âîò ïðèìåð èçîáðàæåíèÿ,</SPAN> 
+<SPAN STYLE="color: navy">Вот пример изображения, </SPAN> 
 <object data="dd.svg" type="image/svg+xml"></object>
 
 </br>
@@ -18,7 +18,7 @@
 
 
 <br>
-<p> <span style="font-size:22pt; font-weight:bold; color:red">Ñòðóêòóðà dd.svg (Øðèôò ðàçìåðîì 22 pt êðàñûé öâåò, ïîëóæèðíûé) </span> </p> <br>
+<p> <span style="font-size:22pt; font-weight:bold; color:red">Структура dd.svg (Шрифт размером 22 pt красый цвет, полужирный) </span> </p> <br>
 
 </body>
 </html>

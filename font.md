@@ -5,6 +5,7 @@
 OL.c01 {list-style-type: square}
 </style>
 </head>
+  <BODY>
 <BODY bgcolor=lime>
 Абзац <br/>
 <p> <span style="font-size:22pt; font-weight:bold; color:blue">

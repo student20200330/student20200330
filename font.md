@@ -5,16 +5,14 @@
 OL.c01 {list-style-type: square}
 </style>
 </head>
-
-<Body bgcolor=lime>
-
+<BODY bgcolor=lime>
 Абзац <br/>
 <p> <span style="font-size:22pt; font-weight:bold; color:blue">
 Пример как из букв можно сделать рисунок<br/>
 (Шрифт размером 22 pt голубой цвет, полужирный) </span> </p> <br/>
 <br/><br/>
 
-<Hr align-center size=6 color=orange>
+<HR align-center size=6 color=orange>
 <br/><br/>
 
 <Center>
@@ -29,10 +27,10 @@ OL.c01 {list-style-type: square}
 </center>
 
 
-<Hr align-center size=6 color=orange>
+<HR align-center size=6 color=orange>
 <br/><br/>
 <br/><br/>
 <IMG SRC="font.png" ALT="code" ALIGN="left">
 
-</Body>
+</BODY>
 </Html>

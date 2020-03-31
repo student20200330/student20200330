@@ -18,7 +18,7 @@ background-position: right bottom /* Ïîëîæåíèå ôîíà */
 которыми редко пользуются<br/>
 но о них стоит знать:
 <ul>
-<li><A HREF="svg_.html">Рисунок из букв</A> </li>
+<li><A HREF="font.html">Рисунок из букв</A> </li>
 <li><A HREF="svg_.html"> Формат SVG</A></li>
 <li><A HREF="formula.html"> Формулы </A></li>
 <li><A HREF="other.html">  И прочее...</A></li>

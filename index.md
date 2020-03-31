@@ -1,7 +1,7 @@
 <html>
 <head>
 
-<title> HTML: Çà ðàìêàìè êóðñà  </title>
+<title> Мой сайт   </title>
 <style type="text/css">
 BODY {
 background-color: yellow; /* Öâåò ôîíà */
@@ -15,18 +15,18 @@ background-position: right bottom /* Ïîëîæåíèå ôîíà */
 </head>
 
 <body>
-<h1>HTML: Çà ðàìêàìè ó÷åáíîãî êóðñà </h1>
+<h1>HTML: За пределами курса </h1>
 
 <TABLE BORDER=1 WIDTH="100%" HEIGHT=100> 
 <TR> 
-<TD>Íåêîòîðûå âîçìîæíîñòè HTML</TD>
+<TD>Некоторые возможности HTML</TD>
 </TR>
 </TABLE>
 
 
 <TABLE BORDER=1 WIDTH="100%"> íà÷àëî òàáëèöû 
 <TR> 
-<TD WIDTH="30%" HEIGHT=40 ><A HREF="font.html"> Ðèñóíêè èç áóêâ </A>
+<TD WIDTH="30%" HEIGHT=40 ><A HREF="font.html"> Рисунок из букв </A>
 </TD>
 <TD ROWSPAN=4>
 Ñóùåñòâóþò íåêîòîðûå ïîëåçíûå âîçìîæíîñòè HTML,</br>
@@ -37,13 +37,13 @@ background-position: right bottom /* Ïîëîæåíèå ôîíà */
 </TR> 
 
 <TR> 
-<TD HEIGHT=40 ><A HREF="svg_.html"> Ôîðìàò SVG</A>
+<TD HEIGHT=40 ><A HREF="svg_.html"> Формат SVG</A>
 </TD> 
 </TR>
 
 
 <TR> 
-<TD HEIGHT=40 ><A HREF="formula.html"> Ôîðìóëû </A>
+<TD HEIGHT=40 ><A HREF="formula.html"> Формулы </A>
 </TD> 
 </TR>
 

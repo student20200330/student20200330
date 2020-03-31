@@ -16,11 +16,11 @@ background-position: right bottom /* Ïîëîæåíèå ôîíà */
 
 <body>
 <h1>HTML: За пределами курса </h1>
-
+  
 <TABLE BORDER=1 WIDTH="100%" HEIGHT=100> 
-<TR> 
+<TR>  
 <TD>Некоторые возможности HTML</TD>
-</TR>
+</TR>  
 </TABLE>
 
 
@@ -29,9 +29,9 @@ background-position: right bottom /* Ïîëîæåíèå ôîíà */
 <TD WIDTH="30%" HEIGHT=40 ><A HREF="font.html"> Рисунок из букв </A>
 </TD>
 <TD ROWSPAN=4>
-Ñóùåñòâóþò íåêîòîðûå ïîëåçíûå âîçìîæíîñòè HTML,</br>
-êîòîðûìè ðåäêî ïîëüçóþòñÿ,</br>
-íî î íèõ ñòîèò çíàòü
+Существуют некоторые полезные возможности HTML,</br>
+которыми редко пользуются</br>
+но о них стоит знать
 
 </TD>
 </TR> 
@@ -48,16 +48,16 @@ background-position: right bottom /* Ïîëîæåíèå ôîíà */
 </TR>
 
 <TR> 
-<TD HEIGHT=40 ><A HREF="other.html"> È ïðî÷å ...</A>
+<TD HEIGHT=40 ><A HREF="other.html">  И прочее...</A>
 </TD> 
 </TR>
 
 
 <TR> 
-<TD HEIGHT=40 ><A HREF="Mailto: name@domain.ru"> Íàïèñàòü ïèñüìî</À>
+<TD HEIGHT=40 ><A HREF="Mailto: name@domain.ru"> Написать письмо</A>
 </TD> </TR> 
 
-</TABLE>êîíåö òàáëèöû
+</TABLE>
 
 
 </body>

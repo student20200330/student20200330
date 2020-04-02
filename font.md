@@ -11,6 +11,8 @@ OL.c01 {list-style-type: square}
 Пример как из букв можно сделать рисунок<br/>
 (Шрифт размером 22 pt голубой цвет, полужирный) </span> </p> <br/>
 <br/><br/>
+<IMG SRC="radio.png" ALT="code" ALIGN="left">
+    
 <center>
 <font size=7 colors "purple ">Р</font>
 <font size=6 Color="blue">а</font>
